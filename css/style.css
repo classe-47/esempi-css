@@ -1,3 +1,8 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
 .testo-rosso {
     color: rgba(105, 11, 11, 0.733)
 }
@@ -5,4 +10,8 @@
 #titolo {
     font-size: 40px;
     color: rgb(86, 143, 86);
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
 }
